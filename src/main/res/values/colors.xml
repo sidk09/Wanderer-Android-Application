@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+    <color name="colorYello">#FFCE54</color>
+    <color name="colorBettersweet1">#FC6E51</color>
+    <color name="colorBettersweet2">#E9573F</color>
+    <color name="mint1">#48CFAD</color>
+    <color name="mint2">#37BC9B</color>
+    <color name="aqua1">#4FC1E9</color>
+    <color name="aqua2">#3BAFDA</color>
+    <color name="blue1">#bbdefb</color>
+    <color name="dark_orange">#f57f17</color>
+    <color name="bb">#006f94</color>
+
+    <color name="bg_user_message">#ffffff</color>
+
+    <color name="primary_dark">#E64A19</color>
+    <color name="primary">#FF5722</color>
+    <color name="accent">#448AFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="text_color_icon">#212121</color>
+    <color name="yello_one">#FDC94F</color>
+    <color name="purple_dark">#673ab7</color>
+    <color name="red">#b71c1c</color>
+    <color name="mint">#48cfad</color>
+    <color name="purple_red">#6a1b9a</color>
+    <color name="sky2">#5DDCD2</color>
+    <color name="sky">#3bafda</color>
+    <color name="skyDark">#1A90A0</color>
+    <color name="orange_lite">#FD757C</color>
+</resources>

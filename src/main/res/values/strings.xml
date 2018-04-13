@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Wanderer</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_Chats">Chats</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_weather">Weather</string>
+
+
+<string name="google_place_api">AIzaSyAwvuWl3_heoY9ZKpBSUbw5eV3qXynzLbE</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to taste the delicacies of the world!</string>
+
+    <string name="slide_2_title">Entertainment</string>
+    <string name="slide_2_desc">More exciting than the blockbusters you have seen!</string>
+
+    <string name="slide_3_title">Shopping</string>
+    <string name="slide_3_desc">Gives more Happiness then the discounts in malls!</string>
+
+    <string name="slide_4_title">WANDERER</string>
+    <string name="slide_4_desc">So pack your bags and become a wanderer now!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
